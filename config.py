@@ -45,7 +45,7 @@ DB_NAME = environ.get("DB_NAME", "cluster01")
 # Ask Doubt on telegram @KingVJ01
 
 # Bot Information
-BOT_TOKEN = environ.get("BOT_TOKEN", "6703353886:AAHCoUV7PmNQWyJ23PfdTc5gMJNYgRNuHHg")
+BOT_TOKEN = environ.get("BOT_TOKEN", "6703353886:AAH15KghPIXwW-3TapYnIz2XWyYg9TZ6RlA")
 BOT_USERNAME = environ.get("BOT_USERNAME", "Movies_Telugu_Top_Bot") # your bot username without @
 PICS = (environ.get('PICS', 'https://graph.org/Movies-Telugu-Top-04-03')).split() # Bot Start Picture
 
