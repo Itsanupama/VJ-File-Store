@@ -13,9 +13,11 @@ class script(object):
     
     CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : {file_name}
 
-sɪᴢᴇ ⚙️: {file_size}
 ʟᴀɴɢᴜᴀɢᴇ : Telugu 
+sɪᴢᴇ ⚙️  : {file_size}
+
 *Note - ᴜꜱᴇ ᴠʟᴄ ᴘʟᴀʏᴇʀ For Better Audio quality 
+
 Jᴏɪɴ [ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ](https://t.me/Movies_Telugu_Top)</b>""" 
 
 # Don't Remove Credit Tg - @VJ_Botz
