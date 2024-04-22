@@ -50,8 +50,8 @@ BOT_USERNAME = environ.get("BOT_USERNAME", "Movies_Telugu_Top_Bot") # your bot u
 PICS = (environ.get('PICS', 'https://graph.org/Movies-Telugu-Top-04-03')).split() # Bot Start Picture
 
 # Auto Delete Information
-AUTO_DELETE = int(environ.get("AUTO_DELETE", "30")) # Time in Minutes
-AUTO_DELETE_TIME = int(environ.get("AUTO_DELETE_TIME", "1800")) # Time in Seconds
+AUTO_DELETE = int(environ.get("AUTO_DELETE", "60")) # Time in Minutes
+AUTO_DELETE_TIME = int(environ.get("AUTO_DELETE_TIME", "3600")) # Time in Seconds
 
 # Channel Information
 LOG_CHANNEL = int(environ.get("LOG_CHANNEL", "-1001554072513"))
