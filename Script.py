@@ -11,10 +11,11 @@ class script(object):
 # Ask Doubt on telegram @KingVJ01
 
     
-    CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : {file_caption}
+    CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : {file_name}
 
 sɪᴢᴇ ⚙️: {file_size}
-
+ʟᴀɴɢᴜᴀɢᴇ : Telugu 
+*Note - ᴜꜱᴇ ᴠʟᴄ ᴘʟᴀʏᴇʀ For Better Audio quality 
 Jᴏɪɴ [ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ](https://t.me/Movies_Telugu_Top)</b>""" 
 
 # Don't Remove Credit Tg - @VJ_Botz
